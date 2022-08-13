@@ -1,0 +1,9 @@
+# Ignore Everything
+*
+!/.gitignore
+
+# Except For These
+!Assets/
+!Assets/Scripts/
+!Assets/Scripts/Controllers
+!Assets/Scripts/Controllers/*
