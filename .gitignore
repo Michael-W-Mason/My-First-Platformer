@@ -7,3 +7,5 @@
 !Assets/Scripts/
 !Assets/Scripts/Controllers
 !Assets/Scripts/Controllers/*
+!Assets/Scripts/Models
+!Assets/Scripts/Models/*
